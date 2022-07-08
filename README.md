@@ -7,12 +7,11 @@ A helper script to find and extract Aztec code from image. Used alongside Zxing 
 
 ## Demo
 
+This is based on an image found [here](https://kurier-kolejowy.pl/aktualnosci/20554/konduktor-pkp-ic-naliczyl-zbyt-wysoka-cene-za-bilet.html).
+
 | Image | 
 |-|
 |![](demo/in.jpg)|
 |![](demo/s1.jpg)|
 |![](demo/s2.jpg)|
 |![](demo/out.jpg)|
-
-
-
