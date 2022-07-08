@@ -3,9 +3,9 @@ A helper script to find and extract Aztec code from image. Used alongside Zxing 
 
 * Dirty implementation in 4 hours
 * Tested 15 times on small sample of codes
- * car registration certificates ([what these folks charge serious buck for](https://www.dekoderaztec.pl/))
- * train tickets
- * small product codes (google "Aztec sample")
+  - car registration certificates ([what these folks charge serious buck for](https://www.dekoderaztec.pl/))
+  - train tickets
+  - small product codes (google "Aztec sample")
 * Silly, but works™
 
 ## Demo
