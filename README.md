@@ -9,10 +9,10 @@ A helper script to find and extract Aztec code from image. Used alongside Zxing 
 
 | Image | 
 |-|
-|![](demo/in.png)|
-|![](demo/s1.png)|
-|![](demo/s2.png)|
-|![](demo/out.png)|
+|![](demo/in.jpg)|
+|![](demo/s1.jpg)|
+|![](demo/s2.jpg)|
+|![](demo/out.jpg)|
 
 
 
